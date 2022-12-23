@@ -2,7 +2,7 @@
 
 [![](https://github.com/Neutrino-1/Neutrino-1/blob/main/dino.gif)](#)
 
-## Hardware Technologies I Love
+## Hardware Technologies 
 * Arduino / Atmel
 * Esp8266 / Esp32
 
