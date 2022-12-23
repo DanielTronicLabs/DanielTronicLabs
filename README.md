@@ -21,56 +21,7 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 </p>
- 
-## Check out my projects here!
-<a href="https://www.youtube.com/Neutrino1">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/srinivasan2020/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instructables.com/member/Neutrino-1/">
-  <img
-    alt="Instructables"
-    src="https://img.shields.io/badge/Instructables-F7DF1E?logo=SimpleIconName&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.hackster.io/Neutrino-1">
-  <img
-    alt="Hackster.io"
-    src="https://img.shields.io/badge/Hackster.io-1572B6?logo=SimpleIconName&logoColor=white&style=for-the-badge"
-  />
-</a>
-
-## Like My Work?
-<a href="https://www.buymeacoffee.com/Neutrino"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Neutrino&button_colour=BD5FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
-
 ---
-
-## Hit me up!
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
-<a href="https://www.linkedin.com/in/srinivasan-m-421179179/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/srinivasan2020/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-
----
-
-
 <!--
 **DanielTronicLabs/DanielTronicLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
