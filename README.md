@@ -8,7 +8,6 @@
 
 ## Programming Languages
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-663399?logo=C&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?logo=c++&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-239120?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00a2df?logo=arduino&logoColor=white&style=for-the-badge" />
