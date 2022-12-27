@@ -14,7 +14,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-239120?style=for-the-badge" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00a2df?style=for-the-badge" />
- 
+  <img alt="java" src="https://img.shields.io/badge/java-000000?style=for-the-badge" />
 </p>
 <!--
 **DanielTronicLabs/DanielTronicLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
