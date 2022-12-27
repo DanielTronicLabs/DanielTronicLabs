@@ -3,8 +3,11 @@
 [![](https://github.com/Neutrino-1/Neutrino-1/blob/main/dino.gif)](#)
 
 ## Hardware Technologies 
-* Arduino / Atmel
-* Esp8266 / Esp32
+* Arduino
+* Esp32
+* PLC
+* HMI
+* VAR
 
 ## Programming Languages
 <p>
