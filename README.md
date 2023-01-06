@@ -7,6 +7,7 @@
 * Esp32
 * PLC
 * HMI
+* Android
 
 
 ## Programming Languages
